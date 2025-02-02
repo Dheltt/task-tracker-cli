@@ -110,4 +110,4 @@ node src/index.js list done
 
 License
 
-This project is licensed under the MIT License.
+This project is licensed under the ISC License.
